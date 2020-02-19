@@ -2,10 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b900826c-3be5-4cd9-badb-54a58810a0cc" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/albums_seeder.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/select_exercises.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/update_exercises.sql" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/albums_migration.sql" beforeDir="false" afterPath="$PROJECT_DIR$/albums_migration.sql" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,6 +51,7 @@
     <option name="viewStates">
       <list>
         <serviceView>
+          <option name="contentProportion" value="0.027777778" />
           <treeState>
             <expand>
               <path>
@@ -81,7 +80,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1582130730024</updated>
-      <workItem from="1582130731408" duration="8146000" />
+      <workItem from="1582130731408" duration="8921000" />
     </task>
     <servers />
   </component>
@@ -97,26 +96,26 @@
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="640" y="115" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1440.900@0.0.1440.900" timestamp="1582131372945" />
-    <state x="854" y="118" key="ExecutionTargetDialog" timestamp="1582147937775">
+    <state x="854" y="118" key="ExecutionTargetDialog" timestamp="1582148371554">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="854" y="118" key="ExecutionTargetDialog/0.0.1440.900@0.0.1440.900" timestamp="1582147937775" />
-    <state width="900" height="228" key="GridCell.Tab.0.bottom" timestamp="1582132382530">
+    <state x="854" y="118" key="ExecutionTargetDialog/0.0.1440.900@0.0.1440.900" timestamp="1582148371554" />
+    <state width="630" height="228" key="GridCell.Tab.0.bottom" timestamp="1582148580811">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="900" height="228" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1582132382530" />
-    <state width="900" height="228" key="GridCell.Tab.0.center" timestamp="1582132382528">
+    <state width="630" height="228" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1582148580811" />
+    <state width="630" height="228" key="GridCell.Tab.0.center" timestamp="1582148580810">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="900" height="228" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1582132382528" />
-    <state width="900" height="228" key="GridCell.Tab.0.left" timestamp="1582132382527">
+    <state width="630" height="228" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1582148580810" />
+    <state width="630" height="228" key="GridCell.Tab.0.left" timestamp="1582148580809">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="900" height="228" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1582132382527" />
-    <state width="900" height="228" key="GridCell.Tab.0.right" timestamp="1582132382529">
+    <state width="630" height="228" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1582148580809" />
+    <state width="630" height="228" key="GridCell.Tab.0.right" timestamp="1582148580810">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="900" height="228" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1582132382529" />
+    <state width="630" height="228" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1582148580810" />
     <state x="983" y="346" key="com.intellij.execution.console.ConsoleHistoryController$MyBrowseAction$1" timestamp="1582132128666">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
