@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b900826c-3be5-4cd9-badb-54a58810a0cc" name="Default Changelist" comment="" />
+    <list default="true" id="b900826c-3be5-4cd9-badb-54a58810a0cc" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/adlister_db.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -55,16 +58,6 @@
                 <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
                 <item name="root:codeup_test_db" type="7427dc5b:ServiceModel$ServiceGroupNode" />
               </path>
-              <path>
-                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
-                <item name="root:codeup_test_db" type="7427dc5b:ServiceModel$ServiceGroupNode" />
-                <item name="com.intellij.database.console.session.MessageBusSession@6a8caeef" type="9fbbdea:ServiceModel$ServiceNode" />
-              </path>
-              <path>
-                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
-                <item name="root:codeup_test_db" type="7427dc5b:ServiceModel$ServiceGroupNode" />
-                <item name="com.intellij.database.console.session.MessageBusSession@1b939ca9" type="9fbbdea:ServiceModel$ServiceNode" />
-              </path>
             </expand>
             <select />
           </treeState>
@@ -83,6 +76,7 @@
       <option name="presentableId" value="Default" />
       <updated>1582130730024</updated>
       <workItem from="1582130731408" duration="10233000" />
+      <workItem from="1582481748940" duration="707000" />
     </task>
     <servers />
   </component>
@@ -98,6 +92,10 @@
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="640" y="115" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1440.900@0.0.1440.900" timestamp="1582131372945" />
+    <state x="802" y="250" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1582482227115">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="802" y="250" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1440.900@0.0.1440.900" timestamp="1582482227115" />
     <state x="854" y="118" key="ExecutionTargetDialog" timestamp="1582148371554">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
