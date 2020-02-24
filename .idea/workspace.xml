@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b900826c-3be5-4cd9-badb-54a58810a0cc" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/adlister_db.sql" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/adlister_db.sql" beforeDir="false" afterPath="$PROJECT_DIR$/adlister_db.sql" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -76,7 +76,7 @@
       <option name="presentableId" value="Default" />
       <updated>1582130730024</updated>
       <workItem from="1582130731408" duration="10233000" />
-      <workItem from="1582481748940" duration="707000" />
+      <workItem from="1582481748940" duration="4301000" />
     </task>
     <servers />
   </component>
@@ -124,9 +124,9 @@
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="926" y="100" width="414" height="700" key="dock-window-1/0.0.1440.900@0.0.1440.900" timestamp="1582130828872" />
-    <state x="745" y="196" width="670" height="676" key="search.everywhere.popup" timestamp="1582144353872">
+    <state x="745" y="196" width="670" height="676" key="search.everywhere.popup" timestamp="1582483733937">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="745" y="196" width="670" height="676" key="search.everywhere.popup/0.0.1440.900@0.0.1440.900" timestamp="1582144353872" />
+    <state x="745" y="196" width="670" height="676" key="search.everywhere.popup/0.0.1440.900@0.0.1440.900" timestamp="1582483733937" />
   </component>
 </project>
