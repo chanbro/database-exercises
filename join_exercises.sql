@@ -84,8 +84,8 @@ WHERE m.to_date > NOW()
 ORDER BY d.dept_name;
 
 
-SELECT CONCAT(e.first_name, ' ', e.last_name)               AS 'Employee Name',
-       d.dept_name                                          AS 'Department Name',
+SELECT CONCAT(e.first_name, ' ', e.last_name) AS 'Employee Name',
+       d.dept_name AS 'Department Name',
        CONCAT(managers.first_name, ' ', managers.last_name) AS 'Manager Name'
 FROM employees AS e
          JOIN dept_emp AS de
