@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b900826c-3be5-4cd9-badb-54a58810a0cc" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources.local.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.local.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/join_exercises.sql" beforeDir="false" afterPath="$PROJECT_DIR$/join_exercises.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/adlister_db.sql" beforeDir="false" afterPath="$PROJECT_DIR$/adlister_db.sql" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,6 +45,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="ServiceViewManager">
@@ -54,17 +54,7 @@
         <serviceView>
           <option name="contentProportion" value="0.027777778" />
           <treeState>
-            <expand>
-              <path>
-                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
-                <item name="root:codeup_test_db" type="7427dc5b:ServiceModel$ServiceGroupNode" />
-              </path>
-              <path>
-                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
-                <item name="root:codeup_test_db" type="7427dc5b:ServiceModel$ServiceGroupNode" />
-                <item name="com.intellij.database.console.session.MessageBusSession@745f6e6e" type="9fbbdea:ServiceModel$ServiceNode" />
-              </path>
-            </expand>
+            <expand />
             <select />
           </treeState>
         </serviceView>
@@ -84,6 +74,9 @@
       <workItem from="1582130731408" duration="10233000" />
       <workItem from="1582481748940" duration="4756000" />
       <workItem from="1582567207277" duration="1987000" />
+      <workItem from="1583268881148" duration="10000" />
+      <workItem from="1583286773633" duration="15000" />
+      <workItem from="1583372535424" duration="14000" />
     </task>
     <servers />
   </component>
